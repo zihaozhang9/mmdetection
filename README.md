@@ -1,7 +1,7 @@
 商汤与港中文的[maskrcnn](https://github.com/open-mmlab/mmdetection)库 <br>
 支持两种数据格式coco、voc <br>
 coco格式可参考[pycococreator](https://github.com/waspinator/pycococreator)生成 <br>
-
+可以使用[博客](https://www.atyun.com/19011.html)中的形状数据简单调试 <br>
 
 # MMDetection
 
