@@ -9,7 +9,7 @@ from PIL import Image
 import numpy as np
 from pycococreatortools import pycococreatortools
 
-ROOT_DIR = '/data/shape/'
+ROOT_DIR = 'shapes/train/'
 IMAGE_DIR = os.path.join(ROOT_DIR, "shapes_train2018")
 ANNOTATION_DIR = os.path.join(ROOT_DIR, "annotations")
 
