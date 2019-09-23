@@ -2,6 +2,7 @@
 支持两种数据格式coco、voc <br>
 coco格式可参考[pycococreator](https://github.com/waspinator/pycococreator)生成 <br>
 可以使用[博客](https://www.atyun.com/19011.html)中的形状数据简单调试 <br>
+安装时出现问题可以先更新[nccl](https://github.com/open-mmlab/mmdetection/issues/1025#issuecomment-532548138).任然有问题，然后更新conda`conda update -n base -c defaults conda` .  <br>
 
 # MMDetection
 
