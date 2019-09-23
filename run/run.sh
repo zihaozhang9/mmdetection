@@ -1,6 +1,6 @@
 pip install git+git://github.com/waspinator/pycococreator.git@0.2.0
 pip install tqdm
-cd processdata/
+cd processdata/coco
 bash process.sh
 cd ../../
 rm -rf work_dirs/mask_rcnn_r50_fpn_1x
